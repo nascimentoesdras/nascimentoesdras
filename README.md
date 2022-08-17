@@ -1,4 +1,4 @@
-## Opa, eu sou o Esdras Hernanny! :v::smile:
+## Olá, me chamo Esdras Nascimento. :v::smile:
 ### Bem vindo ao meu perfil no Github.
 
 <div> 
@@ -12,11 +12,11 @@
 
 
 
-- 🔭 No momento estou a procura de minha primeira experiência profissinal em TI.
-- :computer: Estou aprendendo PHP com o objetivo de me formar como um dev fullstack.
-- :chart_with_upwards_trend: Minhas experiências são demonstradas aqui nos repositórios, onde procuro aplicar os conhecimentos que obtive até o momento com foco na qualidade das aplicações.
+- 🔭 Estou disponível para oportunidades CLT FullStack (Remoto ou Presencial).
+- :computer: Especialista em PHP.
+- :chart_with_upwards_trend: Minhas experiências são demonstradas aqui nos repositórios, onde tenho projetos pessoais onde aplico os conhecimentos obtidos através dos meus estudos e também demonstro minha rotina na faculdade.
 - :sun_with_face: Moro em Natal/RN.
-- :blue_book: Em 2022 pretendo começar minha graduação em Análise e desenvolvimento de sistemas ou Ciência da Computação.
+- :blue_book: Atualmente estudo o 2° período de Sistema de Informação.
 
 ###
 ###
