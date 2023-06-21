@@ -12,11 +12,11 @@
 
 
 
-- 🔭 Estou disponível para oportunidades CLT FullStack (Remoto ou Presencial).
-- :computer: Especialista em PHP.
+- 🔭 Estou a procura de uma oportunidade de estágio.
+- :computer: Desenvolvedor JavaScript.
 - :chart_with_upwards_trend: Minhas experiências são demonstradas aqui nos repositórios, onde tenho projetos pessoais aos quais aplico os conhecimentos obtidos através dos meus estudos e também demonstro minha rotina na faculdade.
 - :sun_with_face: Moro em Natal/RN.
-- :blue_book: Atualmente estudo o 2° período de Sistema de Informação.
+- :blue_book: Atualmente estudo o 3° período de Sistema de Informação.
 
 ###
 ###
