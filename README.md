@@ -16,7 +16,7 @@
   
 ### Tecnologias que tenho dedicado meu tempo:
 <div style="display: inline_block"><br>
-  <img style="width: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img style="width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 
 ##
