@@ -1,12 +1,8 @@
 ## Olá, me chamo Esdras Nascimento. :v::smile:
-### Sejam bem vindxs.
+### Sejam bem vindos.
 
 ### Interesses
-👨🏻‍💻 Ciência de dados
-###
-📊 Análise de dados
-###
-🐍 Desenvolvimento de software com Python
+  Desenvolvimento de software
 
 ###
 <div>
@@ -15,8 +11,11 @@
 </div>
   
 ### Tecnologias que tenho dedicado meu tempo:
-<div style="display: inline_block"><br>
-  <img style="width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<div>
+  <img style="width:75px; margin-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img style="width:75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img style="width:75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+                      
 </div>
 
 ##
