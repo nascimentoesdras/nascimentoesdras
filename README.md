@@ -4,12 +4,6 @@
 ### Interesses
   Desenvolvimento de software fullstack  
   Desenvoilvimento de apps via CLI
-
-###
-<div>
-  <a href="https://github.com/nascimentoesdras">
-  <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentoesdras&layout=compact&langs_count12&theme=gruvbox"/>
-</div>
   
 ### Tecnologias que tenho dedicado meu tempo:
 <div>
