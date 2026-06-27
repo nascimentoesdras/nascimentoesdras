@@ -2,8 +2,9 @@
 ### Sejam bem vindos.
 
 ### Interesses
-  Desenvolvimento de software fullstack  
-  Desenvoilvimento de apps via CLI
+  Desenvolvimento web fullstack;
+  Desenvolvimento de apps para segurança eletronica;
+  Desenvolvimento de apps para automação e telecom.
   
 ### Tecnologias que tenho dedicado meu tempo:
 <div>
